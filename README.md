@@ -39,7 +39,7 @@ This will open a window in your browser. You can navigate through your folders t
 
 Note: you may be prompted to install Jupyter when you first use IJulia. If so, go ahead and install it through the command line. Once it is installed, the notebook should launch normally. 
 
-## Preassignment - Solving a simple LP
+## Preassignment Part 3: Solving a simple LP
 
 Let's try a simple LP! Enter the following JuMP code in a new IJulia notebook. A solution should be returned with an objective value of 10.6.
 
