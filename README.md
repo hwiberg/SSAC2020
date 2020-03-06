@@ -1,11 +1,13 @@
 # SSAC2020: An Optimization Approach to Roster Creation
 Materials for Sloan Sports Analytics Conference 2020 workshop on optimization using Julia/JuMP. In this session, we will implement optimization models using the programming language Julia and the JuMP library.
 
-Julia is a "high-level, high-performance dynamic programming language for technical computing", and JuMP is a library that allows us to easily formulate optimization problems and solve them using a variety of solvers.
+Before this session, follow the preassignment below to setup Julia and JuMP if you would like to run the code on your own computer. The data files and notebook that we will can be downloaded above (`NBA_data_2018_2019.csv`, `NBA_data_2018_2019_playoffs.csv`, and `SSAC20 Julia and JuMP Tutorial.ipynb`.
 
 ## Preassignment Part 1: Install Julia
 
-The first step is to install a recent version of Julia. The current version is 1.3.1\. Versions of Julia for all platforms are available [here](https://julialang.org/downloads/).
+The first step is to install a recent version of Julia. Julia is a "high-level, high-performance dynamic programming language for technical computing", and JuMP is a library that allows us to easily formulate and solve optimization problems.
+
+The current version is 1.3.1\. Versions of Julia for all platforms are available [here](https://julialang.org/downloads/).
 
 ### Install JuMP and Cbc in Julia
 
@@ -40,7 +42,7 @@ This will open a window in your browser. You can create a new notebook by clicki
 
 Note: you may be prompted to install Jupyter when you first use IJulia. If so, go ahead and install it through the command line. Once it is installed, the notebook should launch normally. 
 
-Instructions adapted from [this tutorial](https://github.com/mitmath/julia-mit#installing-julia-and-ijulia).
+Reference: these instructions were adapted from [this tutorial](https://github.com/mitmath/julia-mit#installing-julia-and-ijulia).
 
 ## Preassignment Part 3: Solving a simple optimization problem
 
