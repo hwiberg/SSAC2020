@@ -24,6 +24,11 @@ Also install the Cbc package, which will be the backend mixed-integer optimizati
 (v1.3) pkg> add Cbc
 ```
 
+Finally, you should add Julia's package manager (Pkg) to make it easy to add new packages. 
+```jl
+(v1.3) pkg> add Pkg
+```
+
 ## Preassignment Part 2: Install IJulia
 
 IJulia is the Julia version of IPython/Jupyter, that provides a nice notebook interface to run julia code, together with text and visualization. Please follow the following steps.
