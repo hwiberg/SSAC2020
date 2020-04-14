@@ -1,5 +1,5 @@
 # SSAC2020: An Optimization Approach to Roster Creation
-Materials for Sloan Sports Analytics Conference 2020 workshop on optimization using Julia/JuMP. In this session, we will implement optimization models using the programming language Julia and the JuMP library.
+Materials for Sloan Sports Analytics Conference 2020 workshop on optimization using Julia/JuMP. In this session, we implement optimization models using the programming language Julia and the JuMP library. A video recording of the conference session is available [here](https://www.youtube.com/watch?v=_eBk1bSjDs8).
 
 Before this session, follow the preassignment below to setup Julia and JuMP if you would like to run the code on your own computer. The data files and notebook that we will use in the session can be downloaded above (`NBA_data_2018_2019.csv`, `NBA_data_2018_2019_playoffs.csv`, and `SSAC20 Julia and JuMP Tutorial.ipynb`).
 
